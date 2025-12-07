@@ -8,6 +8,7 @@ Nuvaro is a modern web application built to deliver fast performance, clean arch
 ---
 
 ## 🔗 Project Repository
+##please click on this repo for project REPO
 
 **GitHub Link:**  
 https://github.com/vyshakkolloth/nuvaro.git
